@@ -1,7 +1,7 @@
 # Maintainer: Erik Dubois <erik.dubois@gmail.com>
 pkgname=hel-calamares-config
 _destname1="/etc"
-pkgver=2.0
+pkgver=1.0
 pkgrel=01
 pkgdesc="calamares for Helwan"
 arch=('any')
