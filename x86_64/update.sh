@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#rm helwan*
+rm helwan*
 
 echo "repo-add"
 repo-add -n -R helwan.db.tar.gz *.pkg.tar.zst
