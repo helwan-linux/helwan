@@ -1,77 +1,65 @@
-# 🤝 Contributing to Helwan Linux
+# Helwan Linux
 
-Thank you for your interest in contributing to **Helwan Linux** — an Arch-based Linux distribution built by developers, for developers, with a special focus on the Arabic-speaking community. This project is fully open source and fueled by passion, code, and collaboration.
-
----
-
-## 🚀 What Is Helwan Linux?
-
-Helwan Linux is not just a distro — it's a development ecosystem.
-
-It comes with:
-
-- Developer-first setup (Docker, VTE, GTK, Qt, VSCodium, Rust, etc.)
-- Original tools:
-  - `hel-terminal` – our own terminal emulator
-  - `hel-store` – lightweight GUI app store
-  - `hel-ai-gate` – local AI interface
-  - `hel-welcome-app`, `hel-markdown`, `hel-usb-writer`, and more.
+Helwan Linux is a modern, Arch-based Linux distribution crafted for developers, makers, and power users.  
+It ships with cutting-edge technologies, original native tools, and a clean, ready-to-code environment.
 
 ---
 
-## 🧠 Who We're Looking For
+## 🚀 Highlights
 
-We welcome contributors from all backgrounds!  
-You can help us in one or more of these areas:
-
-### 👨‍💻 Development:
-- **C / GTK / Glib** programmers
-- **Shell scripting (bash/zsh)**
-- **Python / Vala / Rust** for core tools
-
-### 🌍 Localization & Docs:
-- Arabic ↔ English translators
-- Markdown writers for documentation
-
-### 🎨 Design:
-- UI/UX contributors
-- GTK themes, icons, branding
+- ⚙️ Based on Arch Linux with rolling-release model
+- 🧰 Pre-installed developer tools: Docker, GTK, Qt, VSCodium, Rust, Python, Node.js, and more
+- 🖥️ Clean Cinnamon desktop with dark theme and native app integrations
+- 📦 Built-in tools developed in-house:
+  - `hel-terminal`: A fast GTK-powered terminal
+  - `hel-store`: Minimalist app store
+  - `hel-ai-gate`: Offline AI interaction hub
+  - `hel-welcome-app`, `hel-markdown`, `hel-usb-writer`, and others
 
 ---
 
-## 📦 How to Contribute
+## 💿 Download & Install
 
-1. **Fork the repo**
-2. **Clone it locally**  
-   `git clone https://github.com/helwan-linux/<repo-name>.git`
+Latest ISO :  
+👉 [https://helwan-linux.mystrikingly.com/](https://helwan-linux.mystrikingly.com/)
 
-3. **Build the project**  
-   See `README.md` in each repo for specific instructions (usually `meson build && ninja`)
-
-4. **Create a feature or fix branch**  
-   `git checkout -b feature/my-cool-thing`
-
-5. **Push and create a pull request (PR)**
+Minimum requirements:
+- 3 GB RAM
+- 20 GB storage
+- x86_64 architecture
 
 ---
 
-## 📌 Contribution Guidelines
+## 🤝 Contribute
 
-- Follow the existing **code style** and **naming conventions**
-- Open a **Discussion or Issue** before implementing major features
-- Keep PRs **focused and concise**
-- Write **clear commit messages** (e.g., `feat: add dark mode to hel-terminal`)
-- Be respectful, constructive, and open-minded 🫱🏼‍🫲🏽
+Want to help improve Helwan Linux?  
+We're looking for developers, translators, testers, and designers.
+
+Start here → [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ---
+
+## 📌 Repositories
+
+- Main distro builder: [helwan-linux](https://github.com/helwan-linux/)
+- Terminal app: [helwan-linux/helwan-terminal](https://github.com/helwan-linux/helwan-terminal)
+- App store: [helwan-linux/helwan-store](https://github.com/helwan-linux/helwan-store)
+
 ---
 
-## 📣 Final Word
+## 🧠 About
 
-This project started with a vision:  
-**To empower developers in the world with real, open, native tools.**
+Helwan Linux is open source and community-driven.  
+We aim to deliver a powerful, minimalist environment optimized for modern development workflows — no bloat, no distractions.
 
-If you're here, you're part of that.
+Built by: **Saeed Badreldin**  
+License: MIT / GPL depending on components
 
-Let’s build something meaningful together 🚀  
-— *Saeed Badreldin*
+---
+
+## ⭐ Show Your Support
+
+If you like this project, consider starring it 🌟 or sharing it.  
+Every bit of support helps us grow.
+
+
