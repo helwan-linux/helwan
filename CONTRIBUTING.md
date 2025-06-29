@@ -55,6 +55,17 @@ You can help us in one or more of these areas:
 
 ---
 
+
+## 📌 Contribution Guidelines
+
+- Follow the existing **code style** and **naming conventions**
+- Open a **Discussion or Issue** before implementing major features
+- Keep PRs **focused and concise**
+- Write **clear commit messages** (e.g., `feat: add dark mode to hel-terminal`)
+- Be respectful, constructive, and open-minded 🫱🏼‍🫲🏽
+
+---
+---
 ## 🔍 Comparison with Other Arch-based Distributions
 
 | Feature / Distro     | **Helwan Linux**               | EndeavourOS                  | ArcoLinux                   |
@@ -76,19 +87,8 @@ You can help us in one or more of these areas:
 > ✅ = Included and customized  
 > ⚠️ = Exists but not tightly integrated  
 > ❌ = Not available by default
-
-
-## 📌 Contribution Guidelines
-
-- Follow the existing **code style** and **naming conventions**
-- Open a **Discussion or Issue** before implementing major features
-- Keep PRs **focused and concise**
-- Write **clear commit messages** (e.g., `feat: add dark mode to hel-terminal`)
-- Be respectful, constructive, and open-minded 🫱🏼‍🫲🏽
-
 ---
 ---
-
 ## 📣 Final Word
 
 This project started with a vision:  
