@@ -71,25 +71,27 @@ You can help us in one or more of these areas:
 
 ## 🔍 Comparison with Other Arch-based Distributions
 
-| Feature / Distro     | **Helwan Linux**               | EndeavourOS                  | ArcoLinux                   |
-|----------------------|-------------------------------|------------------------------|-----------------------------|
-| 🧩 Base System        | Arch Linux (rolling)          | Arch Linux (rolling)         | Arch Linux (rolling)        |
-| 🎯 Target Audience    | Developers, Arabic speakers   | General users, terminal fans | Customizers & explorers     |
-| 🌐 Language Support   | English + Arabic (UI + Docs)  | English                      | English                     |
-| 🧰 Custom Tools       | ✅ 12+ original applications   | ❌ Minimal helper scripts     | ⚠️ Arco Tools (installer)   |
-| 📦 App Store          | `hel-store` GUI               | ❌                            | ⚠️ (Aur helper + pacman)    |
-| 🎮 Games Included     | `hel-blocks` (Tetris clone)   | ❌                            | ❌                          |
-| 📊 System Insight     | `hel-process`, `hel-insight`  | ❌                            | ❌                          |
-| 🔒 Firewall GUI       | `helufw` (UFW GUI)             | ❌                            | ❌                          |
-| 🧠 AI Integration     | `hel-ai-gate` (browser-free)  | ❌                            | ❌                          |
-| 💻 Terminal Experience| `hel-terminal` (custom)       | default terminal              | multiple configs            |
-| 👋 Welcome App        | `hel-welcome-app`             | basic                        | ⚠️ multiple ISOs            |
-| 📚 Offline Tutorials  | `hel-tutorial`                | ❌                            | ❌                          |
-| 🎨 Desktop            | Cinnamon                      | XFCE/i3/GNOME/Plasma         | XFCE/Openbox/i3 + 30+ ISOs  |
+| Feature / Distro     | **Helwan Linux**                    | EndeavourOS              | ArcoLinux                      |
+|----------------------|-------------------------------------|---------------------------|--------------------------------|
+| 🧩 Base System        | Arch Linux (rolling)                | Arch Linux (rolling)      | Arch Linux (rolling)           |
+| 🎯 Target Audience    | Developers, Arabic speakers         | General Linux users       | Tweakers, advanced users       |
+| 🌐 Language Support   | English + Arabic                    | English only              | English only                   |
+| 🧰 Custom Tools       | ✅ 12+ built-in original tools       | ❌ No                     | ⚠️ Arco Tools installer        |
+| 📦 App Store          | `hel-store` (GUI)                   | ❌                        | ⚠️ AUR helpers via terminal    |
+| 📊 Data Analysis      | `hel-insight` (CSV + stats GUI)     | ❌                        | ❌                             |
+| 🧠 AI Tools           | `hel-ai-gate` (no-browser access)   | ❌                        | ❌                             |
+| 💻 Terminal           | `hel-terminal` (custom emulator)    | Default terminal          | Many terminal configs          |
+| 👋 Welcome App        | `hel-welcome-app`                   | Basic welcome script      | Multiple variants via ISOs     |
+| 📚 Tutorials          | `hel-tutorial` (offline Bash docs)  | ❌                        | ❌                             |
+| 🎮 Game Included      | `hel-blocks` (Tetris-like game)     | ❌                        | ❌                             |
+| 🔒 Firewall GUI       | `helufw` (GUI for UFW)              | ❌                        | ❌                             |
+| 🖥️ Desktop            | Cinnamon (default)                  | XFCE / GNOME / i3 / etc.  | XFCE / Openbox / more          |
+| 🎨 Branding & UX      | Custom icons, theming               | Default DE theming        | Heavy theming variants         |
 
-> ✅ = Included and customized  
-> ⚠️ = Exists but not tightly integrated  
-> ❌ = Not available by default
+> ✅ = Included and integrated  
+> ⚠️ = Exists but not unified or native  
+> ❌ = Not provided by default
+ ❌ = Not available by default
 
 ---
 
