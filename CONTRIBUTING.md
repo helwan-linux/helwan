@@ -2,6 +2,8 @@
 
 Thank you for your interest in contributing to **Helwan Linux** — an Arch-based Linux distribution built by developers, for developers, with a special focus on the Arabic-speaking community. This project is fully open source and fueled by passion, code, and collaboration.
 
+🌐 Official Website: [https://helwan-linux.github.io](https://helwan-linux.github.io)
+
 ---
 
 ## 🚀 What Is Helwan Linux?
@@ -25,47 +27,48 @@ We welcome contributors from all backgrounds!
 You can help us in one or more of these areas:
 
 ### 👨‍💻 Development:
-- **C / GTK / Glib** programmers
+- **C / GTK / Glib** developers
 - **Shell scripting (bash/zsh)**
-- **Python / Vala / Rust** for core tools
+- **Python / Vala / Rust** for core utilities
 
-### 🌍 Localization & Docs:
+### 🌍 Localization & Documentation:
 - Arabic ↔ English translators
-- Markdown writers for documentation
+- Markdown writers for user guides and docs
 
-### 🎨 Design:
+### 🎨 Design & UX:
 - UI/UX contributors
-- GTK themes, icons, branding
+- GTK themes, icons, app branding
 
 ---
 
 ## 📦 How to Contribute
 
-1. **Fork the repo**
+1. **Fork this repository**
 2. **Clone it locally**  
    `git clone https://github.com/helwan-linux/<repo-name>.git`
 
 3. **Build the project**  
-   See `README.md` in each repo for specific instructions (usually `meson build && ninja`)
+   Most apps use Meson/Ninja:  
+   `meson build && ninja -C build`  
+   _(Check individual READMEs for exact instructions)_
 
-4. **Create a feature or fix branch**  
+4. **Create a feature/fix branch**  
    `git checkout -b feature/my-cool-thing`
 
-5. **Push and create a pull request (PR)**
+5. **Push and open a pull request (PR)**
 
 ---
-
 
 ## 📌 Contribution Guidelines
 
 - Follow the existing **code style** and **naming conventions**
-- Open a **Discussion or Issue** before implementing major features
+- Open a **Discussion or Issue** before large feature work
 - Keep PRs **focused and concise**
 - Write **clear commit messages** (e.g., `feat: add dark mode to hel-terminal`)
 - Be respectful, constructive, and open-minded 🫱🏼‍🫲🏽
 
 ---
----
+
 ## 🔍 Comparison with Other Arch-based Distributions
 
 | Feature / Distro     | **Helwan Linux**               | EndeavourOS                  | ArcoLinux                   |
@@ -87,15 +90,15 @@ You can help us in one or more of these areas:
 > ✅ = Included and customized  
 > ⚠️ = Exists but not tightly integrated  
 > ❌ = Not available by default
+
 ---
----
+
 ## 📣 Final Word
 
 This project started with a vision:  
 **To empower developers in the world with real, open, native tools.**
 
-If you're here, you're part of that.
+If you're here, you're part of that vision.
 
 Let’s build something meaningful together 🚀  
 — *Saeed Badreldin*
-
