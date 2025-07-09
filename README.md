@@ -18,6 +18,7 @@ Built on top of Arch Linux using ArchISO and Calamares.
 Designed by developers, for developers and creators.
 
 ---
+https://forum.endeavouros.com/t/share-your-desktop-2025/69504/252?page=13&utm_source=chatgpt.com
 
 ## 💡 What is Helwan Linux?
 
