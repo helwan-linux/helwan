@@ -106,7 +106,7 @@ Helwan 5.0 introduces a suite of original applications built in-house to enhance
 
 ## 📥 Download Helwan Linux
 
-- 🌐 Website: https://helwan-linux.mystrikingly.com/
+- 🌐 Website: (https://helwan-linux.github.io/helwanlinux)
 - ⬇️ Direct ISO: [Download](https://drive.google.com/uc?export=download&id=1CiJqqhd64T6zUQXIh759xVZDi5_mvrei)
 
 ---
