@@ -97,6 +97,29 @@ Your Swiss army knife of system control:
 
 ✨ And much more...
 
+## 🧰 Official Tools Included in Helwan Linux
+
+| Tool Name        | Description                                             |
+|------------------|---------------------------------------------------------|
+| hel-netfix       | Graphical network and system repair tool               |
+| hel-tutorial     | Interactive Linux tutorials for beginners              |
+| hel-welcome-app  | First-time user guide and tips                         |
+| hel-insight      | View and analyze statistics from CSV and Excel files   |
+| hel-ai-gate      | Lightweight AI assistant bridge                        |
+| hel-markdown     | Simple markdown editor for documentation               |
+| hel-process      | GUI task and process manager                           |
+| hel-usb-writer   | Tool to burn ISO images to USB drives                  |
+| hel-blocks       | Simple Tetris game                                     |
+| helfetch-ng      | Enhanced system info fetch tool                        |
+| hel-store        | Minimal GUI app store                                  |
+| hel-terminal     | Customizable terminal emulator (demo version)          |
+| helufw           | GUI firewall configuration tool                        |
+| hel-sec-audit    | Quick system security scan                             |
+| hel-web-server   | Local dev server tool with GUI                         |
+| hel-builder      | Tool to create and edit PKGBUILD files                 |
+| hel-text-editor  | Lightweight code and text editor                       |
+| hel-diagram      | Diagram creation tool for developers                   |
+
 ---
 
 ## 💾 System Requirements
