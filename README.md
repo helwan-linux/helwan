@@ -18,6 +18,9 @@ Designed by developers, for developers and creators
 
 ---
 
+![Helwan Linux Desktop](https://raw.githubusercontent.com/helwan-linux/Helwan-Artwork/main/DT.png)
+
+---
 ## 🚀 What is Helwan O.S?
 
 Helwan O.S is not just another Linux distro.  
