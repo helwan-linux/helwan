@@ -155,12 +155,15 @@ Helwan Linux has been featured by various international platforms, tech blogs, a
 
 ### 📰 Articles & Media
 
-- 📰 [ItsFOSS News](https://news.itsfoss.com/helwan-linux/)  
-- 📰 [Linux Today](https://www.linuxtoday.com/blog/helwan-o-s-egypts-all-purpose-linux-distribution/)  
-- 📰 [LinuxLinks](https://www.linuxlinks.com/halwan-arch-based-distro-developers/)  
-- 📰 [Gladilov.org.ru (Russian)](https://gladilov.org.ru/blog/all/new-virtual-os-29-04-2025/)  
-- 📰 [LaserOffice Blog (Italian)](https://www.laseroffice.it/blog/2025/05/19/helwan-os-la-distribuzione-gnu-linux-multiuso-egiziana/)  
-- 📰 [Linux-OS.net (Spanish)](https://linux-os.net/top-nuevas-distros-linux-bsd-a-ser-reconocidas-en-2025-parte-05/)  
+- 🇬🇧 [ItsFOSS News](https://news.itsfoss.com/helwan-linux/)  
+- 🇬🇧 [Linux Today](https://www.linuxtoday.com/blog/helwan-o-s-egypts-all-purpose-linux-distribution/)  
+- 🇬🇧 [LinuxLinks](https://www.linuxlinks.com/halwan-arch-based-distro-developers/)  
+- 🇷🇺 [Gladilov.org.ru (Russian)](https://gladilov.org.ru/blog/all/new-virtual-os-29-04-2025/)  
+- 🇮🇹 [LaserOffice Blog (Italian)](https://www.laseroffice.it/blog/2025/05/19/helwan-os-la-distribuzione-gnu-linux-multiuso-egiziana/)  
+- 🇪🇸 [Linux-OS.net (Spanish)](https://linux-os.net/top-nuevas-distros-linux-bsd-a-ser-reconocidas-en-2025-parte-05/)  
+- 🌍 [FOSS Weekly #25.23 – It's FOSS](https://app.daily.dev/posts/foss-weekly-25-23-helwan-linux-quarkdown-konsole-tweaks-keyboard-shortcuts-and-more-linux-stuff-nw8ryjijn)  
+- 🌍 [Foorilla.com](https://foorilla.com/media/items/helwan-os-egypts-all-purpose-linux-distribution-27574/)  
+- 🇮🇸 [HFrance (Icelandic)](https://www.hfrance.fr/is/helwan-linux-linux-dreifing-throud-i-egyptalandi-fyrir-alla-notendur.html)  
 - 🌐 [Official GitHub Pages](https://helwan-linux.github.io/helwan-linux/)  
 - 📅 [Distrowatch Weekly (Waiting List)](https://distrowatch.com/weekly.php?issue=20250428#waiting)  
 - 🗳️ [Distrowatch Voting Link](https://distrowatch.com/dwres.php?resource=links#new)
@@ -170,8 +173,10 @@ Helwan Linux has been featured by various international platforms, tech blogs, a
 - 💬 [NodeBB Forum Discussion](https://community.nodebb.org/topic/0ba72d69-b035-40ee-994b-de24fff9f964/helwan-o.s-egypt-s-all-purpose-linux-distribution)  
 - 💬 [Facebook Post (Pop!_OS Group)](https://www.facebook.com/groups/poposlinux/posts/9736730526439215/)  
 - 💼 [Christine Hall on LinkedIn](https://www.linkedin.com/posts/christine-hall-writer_helwan-os-egypts-all-purpose-linux-distribution-activity-7329113784617168896-zGVZ)  
+- 💬 [Lemmy.ca Discussion](https://lemmy.ca/post/44785112)  
 - 📰 [TuxMachines News](https://news.tuxmachines.org/n/2025/05/01/Halwan_Linux_is_an_Arch_based_distro_for_developers.shtml)  
-- 🖼️ [ENDEAVOUROS Forum Screenshot](https://forum.endeavouros.com/t/share-your-desktop-2025/69504/252)
+- 🖼️ [ENDEAVOUROS Forum Screenshot](https://forum.endeavouros.com/t/share-your-desktop-2025/69504/252)  
+- 🖼️ [AI Free Images – Promotional Artwork](https://aifreeimages.com/helwan-linux-egypts-homegrown-distro/)
 
 ---
 
